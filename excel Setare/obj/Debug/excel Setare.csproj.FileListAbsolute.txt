@@ -1,0 +1,18 @@
+C:\Users\Setare Matin\source\repos\excel Setare\excel Setare\bin\Debug\excel Setare.exe.config
+C:\Users\Setare Matin\source\repos\excel Setare\excel Setare\bin\Debug\excel Setare.exe
+C:\Users\Setare Matin\source\repos\excel Setare\excel Setare\bin\Debug\excel Setare.pdb
+C:\Users\Setare Matin\source\repos\excel Setare\excel Setare\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Setare Matin\source\repos\excel Setare\excel Setare\bin\Debug\ExcelDataReader.dll
+C:\Users\Setare Matin\source\repos\excel Setare\excel Setare\bin\Debug\ExcelDataReader.pdb
+C:\Users\Setare Matin\source\repos\excel Setare\excel Setare\bin\Debug\ExcelDataReader.xml
+C:\Users\Setare Matin\source\repos\excel Setare\excel Setare\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Setare Matin\source\repos\excel Setare\excel Setare\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Setare Matin\source\repos\excel Setare\excel Setare\obj\Debug\excel Setare.csproj.AssemblyReference.cache
+C:\Users\Setare Matin\source\repos\excel Setare\excel Setare\obj\Debug\excel Setare.csproj.SuggestedBindingRedirects.cache
+C:\Users\Setare Matin\source\repos\excel Setare\excel Setare\obj\Debug\excel_Setare.Form1.resources
+C:\Users\Setare Matin\source\repos\excel Setare\excel Setare\obj\Debug\excel_Setare.Properties.Resources.resources
+C:\Users\Setare Matin\source\repos\excel Setare\excel Setare\obj\Debug\excel Setare.csproj.GenerateResource.cache
+C:\Users\Setare Matin\source\repos\excel Setare\excel Setare\obj\Debug\excel Setare.csproj.CoreCompileInputs.cache
+C:\Users\Setare Matin\source\repos\excel Setare\excel Setare\obj\Debug\excel Setare.csproj.CopyComplete
+C:\Users\Setare Matin\source\repos\excel Setare\excel Setare\obj\Debug\excel Setare.exe
+C:\Users\Setare Matin\source\repos\excel Setare\excel Setare\obj\Debug\excel Setare.pdb
